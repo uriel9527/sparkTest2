@@ -3,7 +3,7 @@ import java.sql.{Connection, DriverManager, ResultSet}
 import org.apache.spark.SparkConf
 import org.apache.spark.sql.SparkSession
 
-object SparkHiveServer2Yarn {
+object HiveServer2Yarn {
   def main(args: Array[String]): Unit = {
     val conf = new SparkConf().setAppName(this.getClass.getSimpleName)
       //      .setMaster("local[*]")

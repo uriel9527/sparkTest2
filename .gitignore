@@ -1,0 +1,15 @@
+# Project exclude paths
+/target/
+/src/main/resources/core-site.xml
+/src/main/resources/hdfs-site.xml
+/src/main/resources/hive-site.xml
+/src/main/resources/mapred-site.xml
+/src/main/resources/yarn-site.xml
+/.idea/
+/src/main/1.txt
+/src/main/2.txt
+/src/main/3.txt
+/src/main/4.txt
+/src/main/5.txt
+/src/main/6.txt
+/sparkTest2.iml
